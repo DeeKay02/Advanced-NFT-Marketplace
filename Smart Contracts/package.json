@@ -13,5 +13,9 @@
     "erc721"
   ],
   "author": "A Dhruva Krishnama Raju",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0",
+    "hardhat": "^2.15.0"
+  }
 }
